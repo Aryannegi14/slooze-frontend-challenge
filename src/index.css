@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🔥 HARD DARK MODE FALLBACK (Tailwind v4 safe) */
+html.dark {
+  background-color: #111;
+  color: #fff;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 32px; /* 🔥 REAL spacing */
+}
+
+.nav-link {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #3b82f6; /* blue */
+}
