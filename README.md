@@ -1,4 +1,4 @@
-# 🧺 Slooze – Commodities Management System (Front-End)
+#  Slooze – Commodities Management System (Front-End)
 
 This project is a **front-end implementation** of the Slooze Take-Home Challenge.  
 It simulates a **role-based commodities management system** with authentication, dashboard insights, and product management.
@@ -27,7 +27,7 @@ Built using **React + Vite + Tailwind CSS**, with a mocked front-end data layer 
 
 ---
 
-### 📊 Manager Dashboard
+###  Manager Dashboard
 - Total Products
 - Total Stock
 - Number of Categories
